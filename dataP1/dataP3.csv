@@ -1,0 +1,16 @@
+Commande_ID,Date_Heure,Article,Quantite,Prix_Unitaire,Total,Paiement,Client_ID,Reduction
+101,2024-11-05 10:15:32,Lunettes de soleil,2,59.99,119.98,Carte de crédit,1,0
+102,2024-11-05 11:45:10,Lentilles de contact,3,20.00,60.00,Chèque,2,5
+103,2024-11-05 13:22:45,Nettoyant pour lunettes,1,12.50,12.50,Liquide,3,0
+104,2024-11-06 09:08:12,Lunettes de vue,1,199.99,199.99,Carte de crédit,4,10
+105,2024-11-06 14:18:27,Etui à lunettes,4,9.99,39.96,Liquide,5,0
+106,2024-11-06 16:34:50,Lentilles de contact,2,20.00,40.00,Carte de crédit,6,0
+107,2024-11-07 08:10:05,Produit d'entretien,5,5.00,25.00,Liquide,7,0
+108,2024-11-07 15:45:33,Lunettes de soleil,1,59.99,59.99,Chèque,8,5
+109,2024-11-08 12:12:12,Monture,2,150.00,300.00,Carte de crédit,9,15
+110,2024-11-08 18:25:45,Lunettes de vue,1,199.99,199.99,Liquide,10,0
+111,2024-11-09 09:30:00,Nettoyant pour lunettes,2,12.50,25.00,Chèque,11,0
+112,2024-11-09 11:00:00,Lunettes de soleil,3,59.99,179.97,Carte de crédit,12,0
+113,2024-11-09 15:05:15,Lentilles de contact,4,20.00,80.00,Liquide,13,0
+114,2024-11-10 10:15:00,Monture,1,150.00,150.00,Carte de crédit,14,10
+115,2024-11-10 13:45:45,Lunettes de vue,1,199.99,199.99,Chèque,15,0
